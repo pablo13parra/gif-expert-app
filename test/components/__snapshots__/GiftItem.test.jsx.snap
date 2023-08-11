@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GiftItem test should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <h4>
+      Saitama
+    </h4>
+    <img
+      alt="altxd"
+      src="https://one-punch.com/saitama.jpg"
+    />
+  </div>
+</div>
+`;
